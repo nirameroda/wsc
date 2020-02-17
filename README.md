@@ -14,3 +14,7 @@ In PART-2 the folowing models are used to analyze the properties which are not e
 1.Erdos Renyi Model
 2.Watts-Strogatz Model
 3.Barabasi Albert Model
+
+
+Download the dataset from here 
+https://snap.stanford.edu/data/
