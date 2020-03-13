@@ -18,3 +18,19 @@ In PART-2 the folowing models are used to analyze the properties which are not e
 
 Download the dataset from here 
 https://snap.stanford.edu/data/
+
+In assignment2
+Using an open source crawler package (e.g. Crawler4J, Mercator...), design a site-specific crawler for any large domain of your choice. Give particular attention to the following and justify your choice with supporting evidence.
+- Sequential crawling vs. Multithreaded crawling (observe crawling performance - no.of threads v/s time)
+- Type of crawling strategy used (BFS v/s DFS v/s hybrid)
+- Data structure used for indexing (optimal for searching, insertion... )
+
+=========================
+Process:
+
+Input:  Starting URL, list of words, max number of pages to download.
+
+Try each one of the below variants, while designing crawling strategies.
+a. Crawl only from pages whose body text includes one of the words in the list.
+b. Crawl only from pages whose title includes one of the words in the list.
+c. Give priority to page with most words from list (either most different words or most occurrences of words)
