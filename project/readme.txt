@@ -1,5 +1,5 @@
-This project contains two folders 
-1. NIBLPA 
-this is the code for k-shell based LPA.
-2.nodeimport
-this is the code for LPA_NI LPA algorithm
+This project contains LabelPropagation folder inside which there are following codem
+1.modelpani(labelpropagation algorithm with node influence and label importance)
+2.modellpanikshell(label propagation alorithm with node influence based on kshell value and label importance)
+3.model(label propagation code)
+
