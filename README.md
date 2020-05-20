@@ -27,10 +27,7 @@ Using an open source crawler package (e.g. Crawler4J, Mercator...), design a sit
 - Sequential crawling vs. Multithreaded crawling (observe crawling performance - no.of threads v/s time)
 - Type of crawling strategy used (BFS v/s DFS v/s hybrid)
 - Data structure used for indexing (optimal for searching, insertion... )
-
-=========================
-Process:
-
+PROCESSS:-
 Input:  Starting URL, list of words, max number of pages to download.
 
 Try each one of the below variants, while designing crawling strategies.
@@ -40,14 +37,11 @@ c. Give priority to page with most words from list (either most different words 
 
 In assignment3
 ===============
-PART-1.
+PART-1
 =======
 For the different sized networks that you used for Assignment 1, implement the normalized metrics used to measure centrality of nodes - Degree centrality, Closeness centrality, Betweenness centrality and Eigenvector centrality.  Discuss your observations w.r.t the computed value of the metrics on the perceived importance of nodes in the network and submit a detailed report.
 
  
-
- 
-
 PART-2
 =========
 To implement   (i) HITS algorithm   (ii)  PageRank algorithm
