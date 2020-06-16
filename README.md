@@ -1,4 +1,5 @@
 This REPOSITORY contains the information network analysis.
+=================================================================
 In assignment-1 
 =================
 following  properties of the graph is analyzed:
@@ -50,3 +51,7 @@ To implement   (i) HITS algorithm   (ii)  PageRank algorithm
 (ii)email-Eu-core.txt
 (iii)CA-GrQc.txt
 2. Which of the Webpages (assuming the nodes in the dataset to be Webpages) have the highest and lowest PageRank and Hubs-Authorities score? Correlate your observations with reference to the experiments performed in Assignment 1 (w.r.t various network properties) and write a detailed analysis of your observations, along with plots of the rank/score distribution.
+
+In assignment-4
+=====================
+Demonstrate the usefulness of all the concepts studied and experimented with in the  assignment-1 and assignment-3 by applying it to large-scale COVID-19 graph data (of India or any other country that is majorly affected; Indian data available for download from https://api.covid19india.org/).
